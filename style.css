@@ -19,3 +19,7 @@ header {
     min-width: 300px;
     max-width: 80%;
 }
+
+/* to do: 
+move css properties from body to wrapper
+*/
