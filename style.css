@@ -8,16 +8,22 @@ img {
     display: block;
 }
 
-body {
+.wrapper {
     max-width: 100%;
-    min-width: 320px;
+    /* min-width: 320px; */
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 15px;
+    /* background-color: red; */
 }
 header {
-    min-width: 300px;
-    max-width: 80%;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5vh;
+    background-color: rgba(95, 95, 95, 0.5);
+    /* position: fixed;
+    top: 10px; */
 }
 
 /* to do: 
