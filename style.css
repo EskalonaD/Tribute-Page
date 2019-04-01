@@ -62,6 +62,18 @@ li {
     margin-bottom: 10px;
 }
 
+blockquote {
+    padding: 0 300px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+.quote {
+    text-align: justify;
+}
+.author {
+    text-align: right;
+    font-weight: bold;
+}
 
 /* to do: 
 
