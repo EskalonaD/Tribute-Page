@@ -11,7 +11,6 @@ img {
 .wrapper {
     margin: 20px 15px;
     max-width: 100%;
-    /* min-width: 320px; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -25,7 +24,6 @@ header {
     width: 100%;
     text-align: center;
     margin-bottom: 5vh;
-    /* background-color: rgba(95, 95, 95, 0.5); */
 }
 
 h1 {
@@ -49,9 +47,7 @@ img {
     width: 85%;
     min-width: 150px;
     max-width: 800px;
-    /* max-width: 50% */
     margin-bottom: 10px;
-    
 }
 
 ul {
@@ -75,7 +71,3 @@ blockquote {
     text-align: right;
     font-weight: bold;
 }
-
-/* to do: 
-
-*/
